@@ -36,7 +36,7 @@ function logUpTo(n) {
 } 
 ```
 
-- Time Complexity:
+- Time Complexity: O(n)
 
 ```
 function logAtLeast10(n) {
@@ -46,7 +46,7 @@ function logAtLeast10(n) {
 }
 ```
 
-- Time Complexity:
+- Time Complexity: O(n)
 
 ```
 function logAtMost10(n) {
@@ -56,7 +56,7 @@ function logAtMost10(n) {
 }
 ```
 
-- Time Complexity:
+- Time Complexity: O(1)
 
 ```
 function onlyElementsAtEvenIndex(array) {
@@ -70,7 +70,7 @@ function onlyElementsAtEvenIndex(array) {
 }
 ```
 
-- Time Complexity:
+- Time Complexity: O(n)
 
 ```
 function subtotals(array) {
@@ -86,7 +86,7 @@ function subtotals(array) {
 }
 ```
 
-- Time Complexity:
+- Time Complexity: O(n^2)
 
 ```
 function vowelCount(str) {
@@ -107,7 +107,7 @@ function vowelCount(str) {
 }
 ```
 
-- Time Complexity:
+- Time Complexity: O(n)
 
 ## Step Three: Short Answer
 
