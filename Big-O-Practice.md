@@ -1,7 +1,7 @@
-### Big-O Notation Practice
+# Big-O Notation Practice
 
 ## Step One
-# Simplify the following big O expressions as much as possible:
+### Simplify the following big O expressions as much as possible:
 
 1. O(n + 10)
 
