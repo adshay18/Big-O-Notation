@@ -28,8 +28,9 @@
 
 ### Determine the time complexities for each of the following functions. If you’re not sure what these functions do, copy and paste them into the console and experiment with different inputs!
 
-`function logUpTo(n) {
+```function logUpTo(n) {
   for (let i = 1; i <= n; i++) {
     console.log(i);
   }
-}`
+} 
+```
