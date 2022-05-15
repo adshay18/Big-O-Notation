@@ -1,6 +1,7 @@
 # Big-O Notation Practice
 
-## Step One
+## Step One: Simplifying Expressions
+
 ### Simplify the following big O expressions as much as possible:
 
 1. O(n + 10)
@@ -22,3 +23,13 @@
 9. O(5 + 3 + 1)
 
 10. O(n + n^(1/2) + n^2 + n * log(n)^10)
+
+## Step Two: Calculating Time Complexity
+
+### Determine the time complexities for each of the following functions. If you’re not sure what these functions do, copy and paste them into the console and experiment with different inputs!
+
+`function logUpTo(n) {
+  for (let i = 1; i <= n; i++) {
+    console.log(i);
+  }
+}`
